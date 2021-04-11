@@ -1,2 +1,2 @@
-# devops
-Git no Linux Mint
+# Primeiros Passos Com Android Studio
+Praticas com Android Studio
